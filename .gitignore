@@ -21,6 +21,7 @@ dist-esm
 .lazy
 dist-ssr
 *.local
+log.txt
 
 # Editor directories and files
 .vscode/*
