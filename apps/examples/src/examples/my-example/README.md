@@ -1,6 +1,6 @@
 ---
 title: my-example
-componenet: ./MyExample.tsx
+component: ./MyExample.tsx
 category: getting-started
 priority: 1
 keywords: [getting-started]
